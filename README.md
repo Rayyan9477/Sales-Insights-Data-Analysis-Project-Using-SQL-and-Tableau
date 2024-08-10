@@ -43,5 +43,5 @@ This project involves analyzing sales data to derive meaningful insights using S
 - Create interactive dashboards to visualize customer transactions, market-specific sales, and product performance.
 
 #### Contact Information
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rayyan-ahmed9477/)
+- **LinkedIn**: [Rayyan Ahmed](https://www.linkedin.com/in/rayyan-ahmed9477/)
 - **Email**: rayyanahmed265@yahoo.com
